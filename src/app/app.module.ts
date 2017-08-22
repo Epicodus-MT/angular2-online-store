@@ -14,7 +14,7 @@ import { MarketplaceComponent } from './marketplace/marketplace.component';
     AppComponent,
     WelcomeComponent,
     AboutComponent,
-    MarketplaceComponent
+    MarketplaceComponent,
   ],
   imports: [
     BrowserModule,
