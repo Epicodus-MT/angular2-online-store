@@ -16,7 +16,7 @@ import { AlbumDetailComponent } from './album-detail/album-detail.component';
     WelcomeComponent,
     AboutComponent,
     MarketplaceComponent,
-    AlbumDetailComponent,
+    AlbumDetailComponent
   ],
   imports: [
     BrowserModule,
